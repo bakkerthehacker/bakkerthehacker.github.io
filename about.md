@@ -8,7 +8,7 @@ My name is Grant Bakker.
 [
   <img src="https://raw.githubusercontent.com/shlinux/faenza-icon-theme/master/Faenza/categories/scalable/applications-development.svg" align=top width="24" height="24">
   Resume
-](https://bakker.pw/pdfs/Resume.pdf)<br/>
+](https://github.com/bakkerthehacker/bakkerthehacker.github.io/raw/master/pdfs/Resume.pdf)<br/>
 [
   <img src="https://raw.githubusercontent.com/linuxmint/mint-x-icons/master/usr/share/icons/Mint-X/apps/96/octocat.svg" align=top width="24" height="24">
   GitHub
