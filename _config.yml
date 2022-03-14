@@ -2,4 +2,4 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: bakker.pw
 description: bakkerthehacker's home
 plugins:
-  - jekyll-include-cache plu
+  - jekyll-include-cache
