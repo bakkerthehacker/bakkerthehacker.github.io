@@ -1,5 +1,3 @@
-remote_theme:  andrewhwanpark/dark-poole
+remote_theme:  andrewhwanpark/dark-poole#gh-pages
 title: bakker.pw
 description: bakkerthehacker's home
-url: https://andrewhwanpark.github.io/dark-poole
-baseUrl: /dark-poole
