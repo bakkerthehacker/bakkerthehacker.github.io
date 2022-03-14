@@ -1,3 +1,8 @@
 remote_theme:  andrewhwanpark/dark-poole#gh-pages
 title: bakker.pw
 description: bakkerthehacker's home
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
