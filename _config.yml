@@ -1,8 +1,3 @@
-remote_theme:  andrewhwanpark/dark-poole#gh-pages
+remote_theme: mmistakes/minimal-mistakes
 title: bakker.pw
 description: bakkerthehacker's home
-nav:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
