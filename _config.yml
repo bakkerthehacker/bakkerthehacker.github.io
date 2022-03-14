@@ -4,5 +4,5 @@ title: bakker.pw
 description: bakkerthehacker's home
 plugins:
   - jekyll-include-cache
-footer:
-  links:
+atom_feed:
+  hide: true
