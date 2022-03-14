@@ -1,4 +1,6 @@
-### About me
+---
+title: About me
+---
 
 My name is Grant Bakker.
 
