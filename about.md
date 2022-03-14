@@ -1,5 +1,6 @@
 ---
 title: About me
+layout: single
 ---
 
 My name is Grant Bakker.
