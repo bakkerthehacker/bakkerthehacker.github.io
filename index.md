@@ -2,4 +2,4 @@
 title: bakker.pw
 ---
 
-Welcome to bakker.pw.  This is bakker.pw.  Welcome.
+Welcome to bakker.pw.  This is bakkerthehacker's home.  Welcome.
