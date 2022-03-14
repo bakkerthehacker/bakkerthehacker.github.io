@@ -1,5 +1,5 @@
 ---
-title: bakker.pw
+title: bakkerthehacker's home
 layout: single
 ---
 
